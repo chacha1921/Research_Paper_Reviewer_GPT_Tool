@@ -16,7 +16,7 @@ if summarize_button or literature_review_button:
     st.session_state.show_markdown = False
 
 if st.session_state.show_markdown:
-    st.title("Welcome to the GPT Tool for HAI Literature Review!")
+    st.title("Task: GPT Tool for HAI Literature Review")
     st.markdown("""  
         🤖 **Hello, Human!** 👋  
 
